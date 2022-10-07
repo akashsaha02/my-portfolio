@@ -1,0 +1,111 @@
+body{
+    margin:0;
+    font-family: 'Montserrat', sans-serif;
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+.hello{
+    font-size: 35px;
+}
+.half-area{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    margin-right:3%;
+}
+/* .half-area h1{
+    margin: 30% 10% 0% 0%;
+}
+.half-area p{
+    margin: 30% 10% 0% 0%;
+} */
+.half-area img{
+    width: 100%;
+    padding: 50px 10px 10px 30px ;
+}
+.third-width{
+    width: 25%;
+    float: left;
+    margin-left: 3%;
+    padding-left: 2%;
+    margin-right:3%;
+}
+
+.third-width img{
+    width: 100%;
+}
+
+.akash{
+    font-size: 50px;
+    font-weight: 900;
+
+}
+.names{
+    padding-top:20%;
+    padding-left:50px;
+
+}
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(60deg, lightsalmon, tomato);
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 700;
+}
+.headbg{
+    background-image: url(images/header-bg.png);
+    position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.dreambg{
+    background-image: url(images/biography-bg.png);
+    position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.experiences{
+    background-image: url(images/latest-work-bg.png);
+    position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.work-txt{
+    font-size: 50px;
+    margin: 10% 10%;
+    text-align: center;
+}
+.last-page{
+    background-image: url(images/footer-bg.png);
+    position: center;
+    background-repeat: no-repeat;
+}
+.center{
+    text-align: center;
+}
+.single-experience{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    background-color: white;
+}
+footer p{
+    text-align: center;
+    font-size: 12px;
+
+}
+.box{
+    font-size:30px;
+    background-image: linear-gradient(60deg, lightsalmon, tomato);
+    padding: 20px 35px 20px 40px;
+    border-radius: 5px;
+    color: black;
+    font-weight: 700;
+
+}
+#putki{
+    font-size: 20px;
+}
